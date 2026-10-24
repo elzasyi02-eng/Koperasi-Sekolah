@@ -1,7 +1,0 @@
-{
-  "name": "Koperasi Sekolah Digital",
-  "description": "Sistem Informasi & Pengelolaan Keuangan Koperasi Sekolah terpadu dengan 3 tingkat akun (Pengelola, Pegawai, Anggota), modul Waserda, USP bunga menurun 3%, Kredit barang 5%, Simpanan Wajib, dan Simpanan Sukarela.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
-
